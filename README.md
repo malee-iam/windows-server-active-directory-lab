@@ -53,6 +53,11 @@ Sanitized screenshots documenting the Windows Server and Active Directory config
 > Security Note: Sensitive information such as passwords, private IP information, credentials, and personally identifiable information will not be included in this repository.
 > <img width="2126" height="1062" alt="01-windows-server-domain controller-overview" src="https://github.com/user-attachments/assets/1d6f666c-da92-4eda-b20d-ba1274df0e6a" />
 
+### Active Directory OU Structure
+
+This screenshot shows the custom IAM-LAB organizational unit structure created in Active Directory, including separate Users and Groups organizational units for identity administration.
+
+![Active Directory OU Structure](02-active-directory-iam-lab-ou-structure.png)
 
 ## What I Learned
 This lab strengthened my understanding of how Windows Server and Active Directory provide centralized identity and directory services. It also helped me develop practical troubleshooting skills and prepared the environment for integration with identity platforms such as Okta.
