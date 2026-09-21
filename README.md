@@ -59,6 +59,10 @@ This screenshot shows the custom IAM-LAB organizational unit structure created i
 
 ![Active Directory OU Structure](02-active-directory-iam-lab-ou-structure.png)
 
+<img width="1506" height="1006" alt="03-active directory-groups-overview" src="https://github.com/user-attachments/assets/5f8ff0ba-b779-45a6-bbdc-3be4f716fe0d" />
+
+
+
 ## What I Learned
 This lab strengthened my understanding of how Windows Server and Active Directory provide centralized identity and directory services. It also helped me develop practical troubleshooting skills and prepared the environment for integration with identity platforms such as Okta.
 
